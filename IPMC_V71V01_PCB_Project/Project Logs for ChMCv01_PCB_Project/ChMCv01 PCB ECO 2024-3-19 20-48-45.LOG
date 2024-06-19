@@ -1,0 +1,526 @@
+Removed Pin From Net: NetName=VCC_3P3 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=VCC_3P3 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=VCC_3P3 Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=PC0 Pin=J2-01
+Removed Pin From Net: NetName=PC1 Pin=J2-02
+Removed Pin From Net: NetName=PC2 Pin=J2-03
+Removed Pin From Net: NetName=PC3 Pin=J2-04
+Removed Pin From Net: NetName=PC4 Pin=J2-05
+Removed Pin From Net: NetName=PC5 Pin=J2-06
+Removed Pin From Net: NetName=PC6 Pin=J2-07
+Removed Pin From Net: NetName=PC7 Pin=J2-08
+Removed Pin From Net: NetName=GND Pin=J2-21
+Removed Pin From Net: NetName=VCC_3P3 Pin=L1-2
+Removed Pin From Net: NetName=VCC_3P3 Pin=LED1-1
+Removed Pin From Net: NetName=NetJ1_01 Pin=R1-1
+Removed Pin From Net: NetName=VCC_3P3 Pin=R1-2
+Removed Pin From Net: NetName=VCC_3P3 Pin=R2-2
+Removed Pin From Net: NetName=VCC_3P3 Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=VCC_3P3 Pin=TP1-1
+Removed Pin From Net: NetName=GND Pin=TP2-1
+Removed Pin From Net: NetName=VCC_3P3 Pin=U1-21
+Removed Pin From Net: NetName=GND Pin=U1-22
+Removed Pin From Net: NetName=PC0 Pin=U1-35
+Removed Pin From Net: NetName=PC1 Pin=U1-36
+Removed Pin From Net: NetName=PC2 Pin=U1-37
+Removed Pin From Net: NetName=PC3 Pin=U1-38
+Removed Pin From Net: NetName=PC4 Pin=U1-39
+Removed Pin From Net: NetName=PC5 Pin=U1-40
+Removed Pin From Net: NetName=PC6 Pin=U1-41
+Removed Pin From Net: NetName=PC7 Pin=U1-42
+Removed Pin From Net: NetName=VCC_3P3 Pin=U1-52
+Removed Pin From Net: NetName=GND Pin=U1-53
+Removed Pin From Net: NetName=GND Pin=U1-63
+Removed Pin From Net: NetName=GND Pin=U2-5
+Removed Pin From Net: NetName=GND Pin=Y1-4
+Removed Member From Class: ClassName=ChMCv01 Member=L1
+Removed Member From Class: ClassName=ChMCv01 Member=LED1
+Removed Member From Class: ClassName=ChMCv01 Member=TP1
+Removed Member From Class: ClassName=ChMCv01 Member=TP2
+Removed Member From Class: ClassName=ChMCv01 Member=TP3
+Change Component Footprint: Designator=U2 Old Footprint=21-0041B_8_MXM New Footprint=MSOP-8_MS_LIT
+Change Component Footprint: Designator=U1 Old Footprint=64A_ATM New Footprint=LQFP144_2SB_MCH
+Change Component Footprint: Designator=R4 Old Footprint=0603R New Footprint=0805R
+Change Component Footprint: Designator=R1 Old Footprint=0805R New Footprint=0603R
+Change Footprint: Footprint Not Found 50.000M 3P3 50ppm 10pF 3.2*5.0MM
+Change Component Comment : Designator=C7 Old Comment=2.2uF 50V New Comment=0.1uF
+Change Component Comment : Designator=C8 Old Comment=2.2uF 50V New Comment=4.7uF 25V
+Change Component Comment : Designator=R3 Old Comment=2K2 New Comment=10K
+Change Component Comment : Designator=R4 Old Comment=4K7 New Comment=5R1
+Change Component Comment : Designator=R6 Old Comment=4K7 New Comment=10K
+Change Component Comment : Designator=R7 Old Comment=4K7 New Comment=10K
+Change Component Comment : Designator=R8 Old Comment=4K7 New Comment=10K
+Change Component Comment : Designator=R9 Old Comment=4K7 New Comment=10K
+Change Component Comment : Designator=R5 Old Comment=4K7 New Comment=33R
+Change Component Comment : Designator=R1 Old Comment=5R1 New Comment=0R
+Change Component Comment : Designator=Y1 Old Comment=8MHz New Comment=EBRA33T2H-25.000M
+Change Component Comment : Designator=C1 Old Comment=10uF 25V New Comment=0.1uF
+Change Component Comment : Designator=C9 Old Comment=10uF 25V New Comment=1uF 50V
+Change Component Comment : Designator=C4 Old Comment=22pF New Comment=0.1uF
+Change Component Comment : Designator=C5 Old Comment=22pF New Comment=0.1uF
+Change Component Comment : Designator=R12 Old Comment=51R New Comment=10K
+Change Component Comment : Designator=R13 Old Comment=51R New Comment=10K
+Change Component Comment : Designator=R14 Old Comment=120R New Comment=4K7
+Change Component Comment : Designator=R15 Old Comment=560R New Comment=4K7
+Change Component Comment : Designator=R11 Old Comment=560R New Comment=10K
+Change Component Comment : Designator=U1 Old Comment=ATmega128A-AU New Comment=SAMV71Q21RT-H8X-HP
+Change Component Comment : Designator=U2 Old Comment=MAX3485ESA+ New Comment=LTC4313IMS8-1PBF
+Change component parameters: Designator = "C1" ("C1"); Footprint = "0603C"; UniqueID = "\DQIYKGZV" ("\DQIYKGZV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "0603C"; UniqueID = "\VCJXKRVF" ("\VCJXKRVF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "0603C"; UniqueID = "\QHEZUGIN" ("\QHEZUGIN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "0603C"; UniqueID = "\YJAVILXB" ("\YJAVILXB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "0603C"; UniqueID = "\JCTSFMML" ("\JCTSFMML")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "0603C"; UniqueID = "\EKEMDWAY" ("\EKEMDWAY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "0603C"; UniqueID = "\LNWLWCXP" ("\LNWLWCXP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "0603C"; UniqueID = "\NQBBSXGF" ("\NQBBSXGF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRT188R61E475KE13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "X5R AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "4.7uF 25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "0603C"; UniqueID = "\BPSLWHIU" ("\BPSLWHIU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GRT188R61H105KE13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "X5R AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "1uF 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0603C"; UniqueID = "\TIAVLMPB" ("\TIAVLMPB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "0603C"; UniqueID = "\FLRRRQVY" ("\FLRRRQVY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "0805R"; UniqueID = "\GSWRXPKW" ("\GSWRXPKW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "0R 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "0603R"; UniqueID = "\JNNLSRAS" ("\JNNLSRAS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "0603R"; UniqueID = "\ADEVSWFB" ("\ADEVSWFB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0805FR-075R1L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "5R1 1% 0805 1/8W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "0603R"; UniqueID = "\DCILGTHK" ("\DCILGTHK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0733RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "33R/0.01W/Q200"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "0603R"; UniqueID = "\UEOVHSGV" ("\UEOVHSGV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "0603R"; UniqueID = "\YKSSBRHS" ("\YKSSBRHS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "0603R"; UniqueID = "\WIXHNXFX" ("\WIXHNXFX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "0603R"; UniqueID = "\JNCQOCBG" ("\JNCQOCBG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "0603R"; UniqueID = "\WFGABTXZ" ("\WFGABTXZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "0603R"; UniqueID = "\AGLGUPAS" ("\AGLGUPAS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "0603R"; UniqueID = "\VTWREDFV" ("\VTWREDFV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "0603R"; UniqueID = "\NICXFHWM" ("\NICXFHWM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "4K7 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "0603R"; UniqueID = "\GXXVUPHT" ("\GXXVUPHT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "4K7 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "64A_ATM"; UniqueID = "\WGPDSUCG" ("\WGPDSUCG")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "XTAL-5032"; UniqueID = "\INKJZYCM" ("\INKJZYCM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ecliptec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "EBRA23T1H-50.000M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "XO SPXO AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "50.000M 3P3 50ppm 10pF 3.2*5.0MM"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0603C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0603C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Added Component: Designator=C14(0603C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Added Component: Designator=C15(0603C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Added Component: Designator=C16(0603C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Added Component: Designator=C17(0603C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Added Component: Designator=C18(0603C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GCJ188L8EL104KA07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "X8L AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0.1uF 100v 0603"; VariantName = "[No Variations]"
+Added Component: Designator=C19(0603C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRT188R61E106ME13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "X5R AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "10uF 25V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(0603C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GCJ188R71H104KA12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "X7R AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0.1uF 50V 0603"; VariantName = "[No Variations]"
+Added Component: Designator=C21(0603C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GCJ188R71H104KA12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "X7R AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0.1uF 50V 0603"; VariantName = "[No Variations]"
+Added Component: Designator=C22(0603C)
+Add component (AddParameter): Name = "Manufacturer"; Value = "muRata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GCJ188R71H104KA12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "X7R AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "0.1uF 50V 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R16(0603R)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "AC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "4K7 1% 0603"; VariantName = "[No Variations]"
+Added Component: Designator=R17(0603R)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "AC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "4K7 1% 0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC_3P3 Pin=C1-2
+Added Pin To Net: NetName=VCC_3P3 Pin=C4-2
+Added Pin To Net: NetName=VCC_3P3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC_3P3 Pin=C6-2
+Added Pin To Net: NetName=VCC_3P3 Pin=C7-2
+Added Pin To Net: NetName=VCC_3P3 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VCC_3P3 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=VCC_3P3 Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VCC_3P3 Pin=C20-2
+Added Pin To Net: NetName=VCC_3P3 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=VCC_3P3 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=J2-11
+Added Pin To Net: NetName=PC0 Pin=J2-18
+Added Pin To Net: NetName=PC1 Pin=J2-19
+Added Pin To Net: NetName=PC2 Pin=J2-20
+Added Pin To Net: NetName=PC3 Pin=J2-21
+Added Pin To Net: NetName=PC4 Pin=J2-22
+Added Pin To Net: NetName=PC5 Pin=J2-23
+Added Pin To Net: NetName=PC6 Pin=J2-24
+Added Pin To Net: NetName=PC7 Pin=J2-25
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetJ1_01 Pin=R4-1
+Added Pin To Net: NetName=VCC_3P3 Pin=R12-2
+Added Pin To Net: NetName=VCC_3P3 Pin=R13-2
+Added Pin To Net: NetName=VCC_3P3 Pin=R14-2
+Added Pin To Net: NetName=VCC_3P3 Pin=R15-2
+Added Pin To Net: NetName=VCC_3P3 Pin=R16-2
+Added Pin To Net: NetName=VCC_3P3 Pin=R17-2
+Added Pin To Net: NetName=VCC_3P3 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=VCC_3P3 Pin=U1-9
+Added Pin To Net: NetName=PC0 Pin=U1-11
+Added Pin To Net: NetName=VCC_3P3 Pin=U1-30
+Added Pin To Net: NetName=PC1 Pin=U1-38
+Added Pin To Net: NetName=PC2 Pin=U1-39
+Added Pin To Net: NetName=PC3 Pin=U1-40
+Added Pin To Net: NetName=PC4 Pin=U1-41
+Added Pin To Net: NetName=VCC_3P3 Pin=U1-43
+Added Pin To Net: NetName=GND Pin=U1-44
+Added Pin To Net: NetName=PC7 Pin=U1-48
+Added Pin To Net: NetName=PC6 Pin=U1-54
+Added Pin To Net: NetName=PC5 Pin=U1-58
+Added Pin To Net: NetName=GND Pin=U1-61
+Added Pin To Net: NetName=VCC_3P3 Pin=U1-72
+Added Pin To Net: NetName=VCC_3P3 Pin=U1-80
+Added Pin To Net: NetName=GND Pin=U1-95
+Added Pin To Net: NetName=VCC_3P3 Pin=U1-96
+Added Pin To Net: NetName=GND Pin=U1-115
+Added Pin To Net: NetName=VCC_3P3 Pin=U1-134
+Added Pin To Net: NetName=GND Pin=U1-135
+Added Pin To Net: NetName=GND Pin=U1-138
+Added Pin To Net: NetName=VCC_3P3 Pin=U1-143
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=VCC_3P3 Pin=Y1-4
+Added Pin To Net: NetName=ADC0 Pin=J2-01
+Added Pin To Net: NetName=ADC0 Pin=U1-34
+Added Net: Name=ADC0
+Added Pin To Net: NetName=ADC1 Pin=J2-02
+Added Pin To Net: NetName=ADC1 Pin=U1-32
+Added Net: Name=ADC1
+Added Pin To Net: NetName=ADC2 Pin=J2-03
+Added Pin To Net: NetName=ADC2 Pin=U1-31
+Added Net: Name=ADC2
+Added Pin To Net: NetName=ADC3 Pin=J2-04
+Added Pin To Net: NetName=ADC3 Pin=U1-28
+Added Net: Name=ADC3
+Added Pin To Net: NetName=ADC4 Pin=J2-05
+Added Pin To Net: NetName=ADC4 Pin=U1-27
+Added Net: Name=ADC4
+Added Pin To Net: NetName=ADC5 Pin=J2-06
+Added Pin To Net: NetName=ADC5 Pin=U1-26
+Added Net: Name=ADC5
+Added Pin To Net: NetName=ADC6 Pin=J2-07
+Added Pin To Net: NetName=ADC6 Pin=U1-25
+Added Net: Name=ADC6
+Added Pin To Net: NetName=ADC7 Pin=J2-08
+Added Pin To Net: NetName=ADC7 Pin=U1-24
+Added Net: Name=ADC7
+Added Pin To Net: NetName=ADC8 Pin=J2-09
+Added Pin To Net: NetName=ADC8 Pin=U1-23
+Added Net: Name=ADC8
+Added Pin To Net: NetName=ADC9 Pin=J2-10
+Added Pin To Net: NetName=ADC9 Pin=U1-22
+Added Net: Name=ADC9
+Added Pin To Net: NetName=IPMB1_SCL Pin=R15-1
+Added Pin To Net: NetName=IPMB1_SCL Pin=U2-2
+Added Net: Name=IPMB1_SCL
+Added Pin To Net: NetName=IPMB1_SDA Pin=R14-1
+Added Pin To Net: NetName=IPMB1_SDA Pin=U2-7
+Added Net: Name=IPMB1_SDA
+Added Pin To Net: NetName=IPMB2_SCL Pin=R17-1
+Added Pin To Net: NetName=IPMB2_SCL Pin=U3-2
+Added Net: Name=IPMB2_SCL
+Added Pin To Net: NetName=IPMB2_SDA Pin=R16-1
+Added Pin To Net: NetName=IPMB2_SDA Pin=U3-7
+Added Net: Name=IPMB2_SDA
+Added Pin To Net: NetName=JTAG_RST_N Pin=J1-06
+Added Pin To Net: NetName=JTAG_RST_N Pin=R1-1
+Added Net: Name=JTAG_RST_N
+Added Pin To Net: NetName=JTAG_SWCLK Pin=J1-09
+Added Pin To Net: NetName=JTAG_SWCLK Pin=U1-89
+Added Net: Name=JTAG_SWCLK
+Added Pin To Net: NetName=JTAG_SWDIO Pin=J1-08
+Added Pin To Net: NetName=JTAG_SWDIO Pin=U1-79
+Added Net: Name=JTAG_SWDIO
+Added Pin To Net: NetName=JTAG_TRACE Pin=J1-07
+Added Pin To Net: NetName=JTAG_TRACE Pin=U1-109
+Added Net: Name=JTAG_TRACE
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-85
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-104
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=Y1-3
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-142
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=PC8 Pin=J1-15
+Added Net: Name=PC8
+Added Pin To Net: NetName=PC9 Pin=J1-16
+Added Net: Name=PC9
+Added Pin To Net: NetName=PC10 Pin=J1-17
+Added Net: Name=PC10
+Added Pin To Net: NetName=PC11 Pin=J1-18
+Added Net: Name=PC11
+Added Pin To Net: NetName=PC12 Pin=J1-19
+Added Net: Name=PC12
+Added Pin To Net: NetName=PC13 Pin=J1-20
+Added Net: Name=PC13
+Added Pin To Net: NetName=PC14 Pin=J1-21
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=J1-22
+Added Net: Name=PC15
+Added Pin To Net: NetName=PC16 Pin=J1-23
+Added Net: Name=PC16
+Added Pin To Net: NetName=PC17 Pin=J1-24
+Added Net: Name=PC17
+Added Pin To Net: NetName=PC18 Pin=J1-25
+Added Net: Name=PC18
+Added Pin To Net: NetName=PD0_GA0 Pin=J2-12
+Added Pin To Net: NetName=PD0_GA0 Pin=U1-1
+Added Net: Name=PD0_GA0
+Added Pin To Net: NetName=PD2_GA1 Pin=J2-13
+Added Pin To Net: NetName=PD2_GA1 Pin=U1-132
+Added Net: Name=PD2_GA1
+Added Pin To Net: NetName=PD2_GA2 Pin=J2-14
+Added Pin To Net: NetName=PD2_GA2 Pin=U1-131
+Added Net: Name=PD2_GA2
+Added Pin To Net: NetName=PD3_GA3 Pin=J2-15
+Added Pin To Net: NetName=PD3_GA3 Pin=U1-128
+Added Net: Name=PD3_GA3
+Added Pin To Net: NetName=PD4_GA4 Pin=J2-16
+Added Pin To Net: NetName=PD4_GA4 Pin=U1-126
+Added Net: Name=PD4_GA4
+Added Pin To Net: NetName=PD5_GAP Pin=J2-17
+Added Pin To Net: NetName=PD5_GAP Pin=U1-125
+Added Net: Name=PD5_GAP
+Added Pin To Net: NetName=RST_N Pin=J1-05
+Added Pin To Net: NetName=RST_N Pin=R1-2
+Added Pin To Net: NetName=RST_N Pin=U1-83
+Added Net: Name=RST_N
+Added Pin To Net: NetName=RXD0 Pin=J1-11
+Added Pin To Net: NetName=RXD0 Pin=U1-75
+Added Net: Name=RXD0
+Added Pin To Net: NetName=RXD1 Pin=J1-13
+Added Pin To Net: NetName=RXD1 Pin=U1-73
+Added Net: Name=RXD1
+Added Pin To Net: NetName=RXD2 Pin=U1-52
+Added Net: Name=RXD2
+Added Pin To Net: NetName=TW0_ENA Pin=R9-1
+Added Pin To Net: NetName=TW0_ENA Pin=U1-93
+Added Pin To Net: NetName=TW0_ENA Pin=U2-1
+Added Net: Name=TW0_ENA
+Added Pin To Net: NetName=TW0_RDY Pin=R6-1
+Added Pin To Net: NetName=TW0_RDY Pin=U1-99
+Added Pin To Net: NetName=TW0_RDY Pin=U2-5
+Added Net: Name=TW0_RDY
+Added Pin To Net: NetName=TW0_SCL Pin=R7-1
+Added Pin To Net: NetName=TW0_SCL Pin=U1-77
+Added Pin To Net: NetName=TW0_SCL Pin=U2-3
+Added Net: Name=TW0_SCL
+Added Pin To Net: NetName=TW0_SDA Pin=R8-1
+Added Pin To Net: NetName=TW0_SDA Pin=U1-91
+Added Pin To Net: NetName=TW0_SDA Pin=U2-6
+Added Net: Name=TW0_SDA
+Added Pin To Net: NetName=TW2_ENA Pin=R13-1
+Added Pin To Net: NetName=TW2_ENA Pin=U1-55
+Added Pin To Net: NetName=TW2_ENA Pin=U3-1
+Added Net: Name=TW2_ENA
+Added Pin To Net: NetName=TW2_RDY Pin=R10-1
+Added Pin To Net: NetName=TW2_RDY Pin=U1-57
+Added Pin To Net: NetName=TW2_RDY Pin=U3-5
+Added Net: Name=TW2_RDY
+Added Pin To Net: NetName=TW2_SCL Pin=R11-1
+Added Pin To Net: NetName=TW2_SCL Pin=U1-71
+Added Pin To Net: NetName=TW2_SCL Pin=U3-3
+Added Net: Name=TW2_SCL
+Added Pin To Net: NetName=TW2_SDA Pin=R12-1
+Added Pin To Net: NetName=TW2_SDA Pin=U1-47
+Added Pin To Net: NetName=TW2_SDA Pin=U3-6
+Added Net: Name=TW2_SDA
+Added Pin To Net: NetName=TXD0 Pin=J1-12
+Added Pin To Net: NetName=TXD0 Pin=U1-66
+Added Net: Name=TXD0
+Added Pin To Net: NetName=TXD1 Pin=J1-14
+Added Pin To Net: NetName=TXD1 Pin=U1-114
+Added Net: Name=TXD1
+Added Pin To Net: NetName=TXD2 Pin=U1-53
+Added Net: Name=TXD2
+Added Pin To Net: NetName=VCC_1P2 Pin=C9-2
+Added Pin To Net: NetName=VCC_1P2 Pin=C10-2
+Added Pin To Net: NetName=VCC_1P2 Pin=C12-2
+Added Pin To Net: NetName=VCC_1P2 Pin=C13-2
+Added Pin To Net: NetName=VCC_1P2 Pin=C14-2
+Added Pin To Net: NetName=VCC_1P2 Pin=C15-2
+Added Pin To Net: NetName=VCC_1P2 Pin=C16-2
+Added Pin To Net: NetName=VCC_1P2 Pin=C17-2
+Added Pin To Net: NetName=VCC_1P2 Pin=C18-2
+Added Pin To Net: NetName=VCC_1P2 Pin=U1-3
+Added Pin To Net: NetName=VCC_1P2 Pin=U1-29
+Added Pin To Net: NetName=VCC_1P2 Pin=U1-33
+Added Pin To Net: NetName=VCC_1P2 Pin=U1-50
+Added Pin To Net: NetName=VCC_1P2 Pin=U1-81
+Added Pin To Net: NetName=VCC_1P2 Pin=U1-107
+Added Pin To Net: NetName=VCC_1P2 Pin=U1-123
+Added Pin To Net: NetName=VCC_1P2 Pin=U1-139
+Added Net: Name=VCC_1P2
+Change Class Name : Old Net Name=ChMCv01 New Net Name=ChMC_V71V01
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component C12 0.1uF
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component C13 0.1uF
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component C14 0.1uF
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component C15 0.1uF
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component C16 0.1uF
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component C17 0.1uF
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component C18 0.1uF
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component C19 10uF 25V
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component C20 0.1uF
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component C21 0.1uF
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component C22 0.1uF
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component R16 4K7
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component R17 4K7

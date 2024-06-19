@@ -1,0 +1,69 @@
+Change Footprint: Footprint Not Found 50.000M 3P3 50ppm 10pF 3.2*5.0MM
+Added Component: Designator=J?(SAMTEC_SEI-125-02-G-S-E-AB)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SEI-125-02-G-S-E-AB/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SEI-125-02-G-S-E-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SEI-125-02-G-S-E-AB/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(SAMTEC_SEI-125-02-G-S-E-AB)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SEI-125-02-G-S-E-AB/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SEI-125-02-G-S-E-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SEI-125-02-G-S-E-AB/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC0 Pin=J?-01
+Added Pin To Net: NetName=ADC1 Pin=J?-02
+Added Pin To Net: NetName=ADC2 Pin=J?-03
+Added Pin To Net: NetName=GND Pin=J?-03
+Added Pin To Net: NetName=ADC3 Pin=J?-04
+Added Pin To Net: NetName=GND Pin=J?-04
+Added Pin To Net: NetName=ADC4 Pin=J?-05
+Added Pin To Net: NetName=RST_N Pin=J?-05
+Added Pin To Net: NetName=ADC5 Pin=J?-06
+Added Pin To Net: NetName=JTAG_RST_N Pin=J?-06
+Added Pin To Net: NetName=ADC6 Pin=J?-07
+Added Pin To Net: NetName=JTAG_TRACE Pin=J?-07
+Added Pin To Net: NetName=ADC7 Pin=J?-08
+Added Pin To Net: NetName=JTAG_SWDIO Pin=J?-08
+Added Pin To Net: NetName=ADC8 Pin=J?-09
+Added Pin To Net: NetName=JTAG_SWCLK Pin=J?-09
+Added Pin To Net: NetName=ADC9 Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-10
+Added Pin To Net: NetName=GND Pin=J?-11
+Added Pin To Net: NetName=RXD0 Pin=J?-11
+Added Pin To Net: NetName=PD0_GA0 Pin=J?-12
+Added Pin To Net: NetName=TXD0 Pin=J?-12
+Added Pin To Net: NetName=PD2_GA1 Pin=J?-13
+Added Pin To Net: NetName=RXD1 Pin=J?-13
+Added Pin To Net: NetName=PD2_GA2 Pin=J?-14
+Added Pin To Net: NetName=TXD1 Pin=J?-14
+Added Pin To Net: NetName=PC8 Pin=J?-15
+Added Pin To Net: NetName=PD3_GA3 Pin=J?-15
+Added Pin To Net: NetName=PC9 Pin=J?-16
+Added Pin To Net: NetName=PD4_GA4 Pin=J?-16
+Added Pin To Net: NetName=PC10 Pin=J?-17
+Added Pin To Net: NetName=PD5_GAP Pin=J?-17
+Added Pin To Net: NetName=PC0 Pin=J?-18
+Added Pin To Net: NetName=PC11 Pin=J?-18
+Added Pin To Net: NetName=PC1 Pin=J?-19
+Added Pin To Net: NetName=PC12 Pin=J?-19
+Added Pin To Net: NetName=PC2 Pin=J?-20
+Added Pin To Net: NetName=PC13 Pin=J?-20
+Added Pin To Net: NetName=PC3 Pin=J?-21
+Added Pin To Net: NetName=PC14 Pin=J?-21
+Added Pin To Net: NetName=PC4 Pin=J?-22
+Added Pin To Net: NetName=PC15 Pin=J?-22
+Added Pin To Net: NetName=PC5 Pin=J?-23
+Added Pin To Net: NetName=PC16 Pin=J?-23
+Added Pin To Net: NetName=PC6 Pin=J?-24
+Added Pin To Net: NetName=PC17 Pin=J?-24
+Added Pin To Net: NetName=PC7 Pin=J?-25
+Added Pin To Net: NetName=PC18 Pin=J?-25
+Added Pin To Net: NetName=NetJ?_01 Pin=J?-01
+Added Pin To Net: NetName=NetJ?_01 Pin=J?-02
+Added Pin To Net: NetName=NetJ?_01 Pin=R4-1
+Added Net: Name=NetJ?_01
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component J? SEI-125-02-G-S-E-AB
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component J? SEI-125-02-G-S-E-AB

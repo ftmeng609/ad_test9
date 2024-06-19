@@ -1,0 +1,8 @@
+Change Footprint: Footprint Not Found 50.000M 3P3 50ppm 10pF 3.2*5.0MM
+Added Component: Designator=TP1(TP)
+Added Component: Designator=TP2(TP)
+Added Pin To Net: NetName=GND Pin=TP1-1
+Added Pin To Net: NetName=VCC_3P3 Pin=TP2-1
+Change Net Name : Old Net Name=PD2_GA1 New Net Name=PD1_GA1
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component TP1 TPH
+Added Member To Class: ClassName=ChMC_V71V01 Member=Component TP2 TPH

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PC7 Pin=J2-01
+Removed Pin From Net: NetName=PC6 Pin=J2-02
+Removed Pin From Net: NetName=PC5 Pin=J2-03
+Removed Pin From Net: NetName=PC4 Pin=J2-04
+Removed Pin From Net: NetName=PC3 Pin=J2-05
+Removed Pin From Net: NetName=PC2 Pin=J2-06
+Removed Pin From Net: NetName=PC1 Pin=J2-07
+Removed Pin From Net: NetName=PC0 Pin=J2-08
+Added Pin To Net: NetName=PC0 Pin=J2-01
+Added Pin To Net: NetName=PC1 Pin=J2-02
+Added Pin To Net: NetName=PC2 Pin=J2-03
+Added Pin To Net: NetName=PC3 Pin=J2-04
+Added Pin To Net: NetName=PC4 Pin=J2-05
+Added Pin To Net: NetName=PC5 Pin=J2-06
+Added Pin To Net: NetName=PC6 Pin=J2-07
+Added Pin To Net: NetName=PC7 Pin=J2-08

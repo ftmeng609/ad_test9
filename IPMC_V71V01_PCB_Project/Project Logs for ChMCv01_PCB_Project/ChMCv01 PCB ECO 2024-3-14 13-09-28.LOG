@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=J1-25
+Change Component Comment : Designator=Y1 Old Comment=16.000M 50ppm 10pF 2.5*3.2MM New Comment=8MHz
+Change Net Name : Old Net Name=RXD1 New Net Name=PD2/RXD1
+Change Net Name : Old Net Name=TXD1 New Net Name=PD3/TXD1
+Added Pin To Net: NetName=PD6/RE# Pin=J1-25
+Added Pin To Net: NetName=PD6/RE# Pin=U1-31
+Added Net: Name=PD6/RE#

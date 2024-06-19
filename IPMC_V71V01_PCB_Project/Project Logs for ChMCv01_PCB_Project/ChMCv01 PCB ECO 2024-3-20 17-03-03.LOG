@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=LED Pin=U1-14
+Change Footprint: Footprint Not Found 50.000M 3P3 50ppm 10pF 3.2*5.0MM
+Added Pin To Net: NetName=LED Pin=U1-103

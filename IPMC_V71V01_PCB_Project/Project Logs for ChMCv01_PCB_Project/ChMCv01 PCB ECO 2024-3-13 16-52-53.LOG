@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=PE4 Pin=J1-11
+Removed Pin From Net: NetName=PE5 Pin=J1-12
+Removed Pin From Net: NetName=PE6 Pin=J1-13
+Removed Pin From Net: NetName=PE7 Pin=J1-14
+Removed Pin From Net: NetName=PG0 Pin=J2-06
+Removed Pin From Net: NetName=PG1 Pin=J2-07
+Removed Pin From Net: NetName=PG2 Pin=J2-08
+Removed Pin From Net: NetName=PG3 Pin=J2-09
+Added Pin To Net: NetName=IPMB1_I2C_SDA Pin=J1-11
+Added Pin To Net: NetName=IPMB1_I2C_SCL Pin=J1-12
+Added Pin To Net: NetName=IPMB2_N2_P Pin=J1-13
+Added Pin To Net: NetName=IPMB2_N2_N Pin=J1-14

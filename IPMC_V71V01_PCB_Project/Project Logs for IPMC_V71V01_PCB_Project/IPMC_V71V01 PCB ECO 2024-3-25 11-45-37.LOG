@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=TW0_SCL Pin=R7-1
+Removed Pin From Net: NetName=TW0_SDA Pin=R8-1
+Removed Pin From Net: NetName=TW2_SCL Pin=R11-1
+Removed Pin From Net: NetName=TW2_SDA Pin=R12-1
+Removed Pin From Net: NetName=IPMB1_SDA Pin=R14-1
+Removed Pin From Net: NetName=IPMB1_SCL Pin=R15-1
+Removed Pin From Net: NetName=IPMB2_SDA Pin=R16-1
+Removed Pin From Net: NetName=IPMB2_SCL Pin=R17-1
+Removed Pin From Net: NetName=IPMB1_SCL Pin=U2-2
+Removed Pin From Net: NetName=TW0_SCL Pin=U2-3
+Removed Pin From Net: NetName=TW0_SDA Pin=U2-6
+Removed Pin From Net: NetName=IPMB1_SDA Pin=U2-7
+Removed Pin From Net: NetName=IPMB2_SCL Pin=U3-2
+Removed Pin From Net: NetName=TW2_SCL Pin=U3-3
+Removed Pin From Net: NetName=TW2_SDA Pin=U3-6
+Removed Pin From Net: NetName=IPMB2_SDA Pin=U3-7
+Change Component DesignItemId : Designator=R14 Old DesignItemId=Res1-4K7 New DesignItemId=Res1-10K
+Change Component DesignItemId : Designator=R15 Old DesignItemId=Res1-4K7 New DesignItemId=Res1-10K
+Change Component DesignItemId : Designator=R16 Old DesignItemId=Res1-4K7 New DesignItemId=Res1-10K
+Change Component DesignItemId : Designator=R17 Old DesignItemId=Res1-4K7 New DesignItemId=Res1-10K
+Change Component Comment : Designator=R14 Old Comment=4K7 New Comment=10K
+Change Component Comment : Designator=R15 Old Comment=4K7 New Comment=10K
+Change Component Comment : Designator=R16 Old Comment=4K7 New Comment=10K
+Change Component Comment : Designator=R17 Old Comment=4K7 New Comment=10K
+Change Component Comment : Designator=U2 Old Comment=LTC4313IMS8-1PBF New Comment=LTC4313IMS8-2PBF
+Change Component Comment : Designator=U3 Old Comment=LTC4313IMS8-1PBF New Comment=LTC4313IMS8-2PBF
+Change Component Library : Designator=R14 Old Library=AD20_RCX.SchLib New Library=IPMCv01_PCB_Project.SCHLIB
+Change Component Library : Designator=R15 Old Library=AD20_RCX.SchLib New Library=IPMCv01_PCB_Project.SCHLIB
+Change Component Library : Designator=R16 Old Library=AD20_RCX.SchLib New Library=IPMCv01_PCB_Project.SCHLIB
+Change Component Library : Designator=R17 Old Library=AD20_RCX.SchLib New Library=IPMCv01_PCB_Project.SCHLIB
+Change component parameters: Designator = "R14" ("R14"); Footprint = "0603R"; UniqueID = "\NICXFHWM" ("\NICXFHWM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "0603R"; UniqueID = "\GXXVUPHT" ("\GXXVUPHT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "0603R"; UniqueID = "\NXIVZBXK" ("\NXIVZBXK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K 1% 0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "0603R"; UniqueID = "\MMWNMWZW" ("\MMWNMWZW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "AC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "Q-200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "10K 1% 0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IPMB1_SCL Pin=R7-1
+Added Pin To Net: NetName=IPMB1_SDA Pin=R8-1
+Added Pin To Net: NetName=IPMB2_SCL Pin=R11-1
+Added Pin To Net: NetName=IPMB2_SDA Pin=R12-1
+Added Pin To Net: NetName=TW0_SDA Pin=R14-1
+Added Pin To Net: NetName=TW0_SCL Pin=R15-1
+Added Pin To Net: NetName=TW2_SDA Pin=R16-1
+Added Pin To Net: NetName=TW2_SCL Pin=R17-1
+Added Pin To Net: NetName=TW0_SCL Pin=U2-2
+Added Pin To Net: NetName=IPMB1_SCL Pin=U2-3
+Added Pin To Net: NetName=IPMB1_SDA Pin=U2-6
+Added Pin To Net: NetName=TW0_SDA Pin=U2-7
+Added Pin To Net: NetName=TW2_SCL Pin=U3-2
+Added Pin To Net: NetName=IPMB2_SCL Pin=U3-3
+Added Pin To Net: NetName=IPMB2_SDA Pin=U3-6
+Added Pin To Net: NetName=TW2_SDA Pin=U3-7
+Change Class Name : Old Net Name=ChMC_V71V01 New Net Name=IPMC_V71V01
